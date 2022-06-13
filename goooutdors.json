@@ -9,7 +9,7 @@
 
 	"APPLOVIN_BANNER_ID": "90edb24da2a4485f",
 	"APPLOVIN_INTERSTITIAL_ID": "ad98d2d82a75a287",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"5eqvn465Z34d6740t76hy",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"ad98d2d82a75a287",
 	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -54,7 +54,7 @@
 		{
 			"title": "Go Outdoors",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/goimg/main/logo.png",
-			"url": "https://"
+			"url": "https://www.gooutdoors.co.uk/"
 		}
 		
 
